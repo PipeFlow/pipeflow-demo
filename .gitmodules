@@ -1,0 +1,6 @@
+[submodule "podcast"]
+	path = podcast
+	url = https://github.com/pod-cast/podcast.git
+[submodule "podcast-client"]
+	path = podcast-client
+	url = https://github.com/pod-cast/podcast-client.git
